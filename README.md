@@ -4,7 +4,7 @@ Econome seu tempo, não faça trabalhos repetitivos e monótonos!
 Esse script é capaz de preencher todas as planilhas necessárias para dar entrada em uma usina solar fotovotáica com base nos modelos da Equatorial Energia, além de entregar outros arquivos necessários, como Datasheets, INMETRO e informações elétricas dos inversores e módulos geradores.*
 
 
-### Planilhas Suportadas
+### ✅ Planilhas Suportadas
 Script capaz de preencher os seguintes anexos:
 - Solicitação de Parecer de Acesso
 - Solicitação de Vistoria
