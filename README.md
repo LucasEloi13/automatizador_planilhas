@@ -22,7 +22,7 @@ Para execultar esse script, use:
 Também erá necessário a instalação do Anaconda para o uso do Jupyter Notebook.
 
 
-### Como usar 
+### 📌 Como usar 
 
 Dentro da pasta planilhas terá um modelo chamado 'cliente_modelo.xlxs', preencha os dados do cliente e execulte e depois no script 'automatizador' execulte
 as células até chegar no main(). 
